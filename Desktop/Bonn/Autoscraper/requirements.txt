@@ -1,0 +1,7 @@
+Django
+beautifulsoup4
+pandas
+nltk
+textblob
+matplotlib
+azure-storage-blob
